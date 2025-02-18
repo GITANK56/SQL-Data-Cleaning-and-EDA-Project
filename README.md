@@ -41,10 +41,6 @@ Results & Insights
 
   Include any patterns or trends discovered during EDA.
 
-Files Included
-
-Exploratory Data Analysis with EDA.sql – SQL queries used for cleaning the dataset.
-
 Contributions
 
   Feel free to contribute by suggesting improvements or additional analysis. Fork the repo and submit a pull request!
